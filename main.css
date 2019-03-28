@@ -5,15 +5,17 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
+  background-image: url(images/background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-
 
 h1 {
   padding: 20px 0px 10px 0px;
 }
 
 a {
-color: #69CBBB;
+color: #3971E2;
 text-decoration: none;
 }
 
@@ -31,5 +33,5 @@ portfolio entries */
 .portfolio-item {
 margin-top: 60px;
 padding: 40px;
-background-color: #f7f7f7;
+
 }
